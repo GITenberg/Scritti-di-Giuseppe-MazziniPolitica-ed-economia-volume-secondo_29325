@@ -1,0 +1,30 @@
+_repo: Scritti-di-Giuseppe-MazziniPolitica-ed-economia-volume-secondo_29325
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mazzini, Giuseppe
+    alias: Brown, Giorgio Rossi
+    birthdate: 1805
+    deathdate: 1872
+    gutenberg_agent_id: '33687'
+    url: http://www.gutenberg.org/2009/agents/33687
+    wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Mazzini
+description: ''
+gutenberg_bookshelf: IT Scienze politiche
+gutenberg_issued: '2009-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29325'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Economic conditions'
+- !lcsh 'Italy -- Politics and government -- 1815-1870'
+- !lcc 'DG'
+title: Scritti di Giuseppe Mazzini, Politica ed Economia, Vol. II
+url: http://www.gutenberg.org/ebooks/29325
