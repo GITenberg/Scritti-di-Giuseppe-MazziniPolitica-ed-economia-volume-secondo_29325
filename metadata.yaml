@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33687
     wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Mazzini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29325#Scritti-di-Giuseppe-MazziniPolitica-ed-economia-volume-secondo
 gutenberg_bookshelf: IT Scienze politiche
 gutenberg_issued: '2009-07-05'
 gutenberg_type: Text
